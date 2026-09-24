@@ -1,0 +1,1 @@
+document.getElementById('startQuiz')?.addEventListener('click',()=>{document.getElementById('quiz')?.scrollIntoView({behavior:'smooth'});});
